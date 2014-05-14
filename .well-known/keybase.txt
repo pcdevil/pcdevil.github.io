@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/pcdevil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pcdevil.me
+  * I am pcdevil (https://keybase.io/pcdevil) on keybase.
+  * I have a public key with fingerprint 7600 6D38 5CFC 2008 0B7C  8789 F8EA A218 7420 65A1
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "76006d385cfc20080b7c8789f8eaa218742065a1",
+            "host": "keybase.io",
+            "key_id": "f8eaa218742065a1",
+            "uid": "73839055ffaebef504c17c44de70f100",
+            "username": "pcdevil"
+        },
+        "service": {
+            "hostname": "pcdevil.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1400100432,
+    "expire_in": 157680000,
+    "prev": "99b0502d7b55de05df767ab6161a5b3af45924da48a511846fb11b4c2fdaabc4",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.14
+Comment: https://keybase.io/crypto
+
+yMHmAnicbZFdSBRdGMd3N7Pcl9U18KJ8JRlIiBY9sztfu6ERiFipCBauIS1zZs7s
+jtnOuDO7Jot9gbgVvESiBaWGJREseaFJYeEmL4VsYQqppUiYdaP4kTdBhp6Rugg6
+N4fnf37P//8cnv9tO0xW84GCQOXxZNesOZlYDpuqtMnKKAEVsYnwRImzaPuS5KAf
+hdSQHNQJD8EyADCii6MFSXACwAHIChzLuSUO8byT5FjKCRiaJwkHEVA0owPbQF5D
++bKCNVz4ZBGrf+HD2w+si3O5AU1LEo8gkmhACSQrUJSIWCCRABighkJB/hzCtCqI
+KCLXE80OAosRWcBidDv5TyAfFw5CDSm6Iij1WA/ouuox2vQm1eAaEfT9cvBBOSji
+T+OGCAppshIkPCQmBV02LEkKADwH5XI6CHRelUPIJxsEzTIcwMeIQRFs6XZDQAOn
+yEKaFhGgRYllWB4yJEPyNHTxEkW7nZTIUxxPkyRHMRIkSUgJTknkeShQOF9DDUGF
+8NB4TN6PLTXZH+T1cAgRzSOJ2hST2WpK3Wkx1mayptl/L3Pjy27TZSarRH3RXlDv
+PZzzvAf0p1/cWJqSLJvJtpp72T9WJjITS9WsOS022Dyjxfwlz9oynvYNDXVfqPXu
+s6xPPzz11b7634nSkbH5hcQ7T3FFYe6HWKGtUY17N653Dqfm7ym6gYZbXopTtnD7
+z+oWmDJY/D5l81MgGal8lJFnFTvHJce/MXir9Xtt/Or4+OmOx/MDdZnpa96aBxMT
+VXXSsV0LR3um1bI7k6/WraNvbf2lfQPZs0cW7+emnbl0bX/eqL3j5MfFsvK5eLi3
+YgZOxbMOjd5ds7x+k9Na9+Tb7ZV+8krxir5ari7PFo01RNu6Dt5MuF3/2Oc+Z1Dd
+vcm9eVtRFRR/
+=mbHR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pcdevil
+
+==================================================================
